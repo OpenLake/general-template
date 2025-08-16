@@ -87,7 +87,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 ---
 
 ## Maintainers <sup>[↥ Back to top](#table-of-contents)</sup>
-
+Current Maintainers: <insert_github_link>
 See [MAINTAINERS.md](MAINTAINERS.md) for a full list.
 
 ---
